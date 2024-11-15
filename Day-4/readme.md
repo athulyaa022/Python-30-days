@@ -10,7 +10,7 @@ The `input()` function allows users to enter information, which can then be proc
 2. Then, ask the user for their age.
 3. Finally, print a personalized message that includes both their name and age.
 
-**Expecteed Output**:
+**Expected Output**:
 ```python
 Enter your name: Anu
 Enter your age: 25
@@ -35,7 +35,7 @@ In this task, you'll practice using the `input()` function and also work with fo
    - Their age in years.
    - Their age in months.
 
-**Example**:
+**Expected Output:**:
 ```python
 Enter your name: Anu
 Enter your age (in years): 25
